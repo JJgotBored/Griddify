@@ -1,0 +1,6 @@
+[Desktop Entry]
+ServiceTypes=Krita/Griddify
+X-KDE-Library=Griddify
+X-Python-2-Compatible=false
+Name=Griddify
+Comment=Expands upon existing grid tool by creating pixel to be groups, allowing the creation custom pixel dimension ratios.
