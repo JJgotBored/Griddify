@@ -1,5 +1,5 @@
 [Desktop Entry]
-ServiceTypes=Krita/Griddify
+ServiceTypes=Krita/PythonPlugin
 X-KDE-Library=Griddify
 X-Python-2-Compatible=false
 Name=Griddify
