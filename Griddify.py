@@ -1,2 +1,3 @@
 from PyQt5.QtWidgets import *
-from krita import *
+from krita import Krita
+
