@@ -1,6 +1,6 @@
 from PyQt5.QtWidgets import *
 #import krita
-from krita import *
+from krita import * #change when testing
 
 class Griddify(DockWidget):
 
